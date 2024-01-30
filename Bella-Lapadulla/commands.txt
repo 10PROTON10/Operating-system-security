@@ -1,0 +1,5 @@
+Уровни секретности, которые используются в данной программе:
+null - 0
+secret - 1
+superSecret - 2
+specialImportance - 3
