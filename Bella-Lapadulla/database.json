@@ -1,0 +1,1 @@
+{"matrix": {"subj1": {"object1": ["read", "write"], "object2": ["write"], "object3": ["append"], "object4": []}, "subj2": {"object1": ["write"], "object2": [], "object3": ["execute"], "object4": []}, "subj3": {"object1": [], "object2": [], "object3": [], "object4": []}, "subj4": {"object1": [], "object2": [], "object3": [], "object4": []}}}
