@@ -1,0 +1,14 @@
+Создание сущности:
+/cr(a,client1,file10,s) #Subj
+/cr(g,client1,file12,o) #Obj
+
+Проверка возможности доступа:
+/tk(a,client1,file3,file4) # True
+/tk(a,client1,file3,file5) # False
+
+Проверка разрешения на доступ:
+/gr(a,client1,client2,file3) #True
+/gr(a,client2,client1,file1) #False
+
+Удаление сущности:
+/rm(file3,file4)
