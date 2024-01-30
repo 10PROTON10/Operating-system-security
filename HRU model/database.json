@@ -1,0 +1,1 @@
+{"subjects": {"toxa": {"password": "1234"}, "danya": {"password": "123"}}, "objects": {"test4": {}, "test3": {}, "test2": {}}, "access_matrix": {"toxa": {"test3": ["r", "w", "x"], "test2": ["r", "w", "x", "o"]}, "danya": {"test4": ["r"], "test3": ["o"], "test2": ["o"]}}}
